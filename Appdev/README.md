@@ -78,6 +78,6 @@
 
 # Chạy ứng dụng:
 
-git clone https://github.com/PhuocVO94/users-table.git
+git clone https://github.com/PhuocVO94/users_table_2.git
 npm install
 ng serve
